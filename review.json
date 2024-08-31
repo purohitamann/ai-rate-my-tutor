@@ -1,0 +1,94 @@
+{
+  "reviews": [
+    {
+      "tutor": "John Smith",
+      "course": "Introduction to Physics",
+      "stars": 4,
+      "review": "Very knowledgeable and patient. Explains concepts clearly."
+    },
+    {
+      "tutor": "Emily Chen",
+      "course": "Advanced Calculus",
+      "stars": 5,
+      "review": "Excellent teacher! Made complex topics easy to understand."
+    },
+    {
+      "tutor": "Michael Johnson",
+      "course": "World History",
+      "stars": 3,
+      "review": "Decent explanations, but sometimes goes off-topic."
+    },
+    {
+      "tutor": "Sarah Williams",
+      "course": "English Literature",
+      "stars": 5,
+      "review": "Passionate about the subject. Great at fostering discussions."
+    },
+    {
+      "tutor": "David Lee",
+      "course": "Computer Science Fundamentals",
+      "stars": 4,
+      "review": "Very helpful with programming concepts. Could improve on time management."
+    },
+    {
+      "tutor": "Laura Martinez",
+      "course": "Spanish for Beginners",
+      "stars": 5,
+      "review": "Excellent at teaching pronunciation and basic conversation skills."
+    },
+    {
+      "tutor": "Alex Turner",
+      "course": "Music Theory",
+      "stars": 4,
+      "review": "Knowledgeable and encouraging. Sometimes moves too fast."
+    },
+    {
+      "tutor": "Olivia Brown",
+      "course": "Introduction to Psychology",
+      "stars": 3,
+      "review": "Good at explaining theories, but could use more real-world examples."
+    },
+    {
+      "tutor": "Daniel Kim",
+      "course": "Organic Chemistry",
+      "stars": 5,
+      "review": "Extremely helpful. Breaks down complex reactions step-by-step."
+    },
+    {
+      "tutor": "Sophia Patel",
+      "course": "Business Ethics",
+      "stars": 4,
+      "review": "Insightful discussions and relevant case studies. Could improve on feedback."
+    },
+    {
+      "tutor": "Robert Wilson",
+      "course": "Linear Algebra",
+      "stars": 5,
+      "review": "Excellent at explaining abstract concepts. Very patient with questions."
+    },
+    {
+      "tutor": "Emma Thompson",
+      "course": "Creative Writing",
+      "stars": 4,
+      "review": "Provides great feedback on writing style. Sometimes hard to schedule."
+    },
+    {
+      "tutor": "Christopher Davis",
+      "course": "Environmental Science",
+      "stars": 3,
+      "review": "Knowledgeable about the subject, but lectures can be dry."
+    },
+    {
+      "tutor": "Ava Rodriguez",
+      "course": "Art History",
+      "stars": 5,
+      "review": "Passionate and engaging. Makes the subject come alive."
+    },
+    {
+      "tutor": "Thomas Anderson",
+      "course": "Data Structures and Algorithms",
+      "stars": 4,
+      "review": "Very thorough explanations. Homework assignments are challenging but helpful."
+    }
+  ]
+}
